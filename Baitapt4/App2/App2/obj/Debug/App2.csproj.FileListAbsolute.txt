@@ -1,0 +1,32 @@
+D:\Kỳ 3\Baitap t4\App2\App2\obj\Debug\App.g.i.cs
+D:\Kỳ 3\Baitap t4\App2\App2\obj\Debug\App.g.cs
+D:\Kỳ 3\Baitap t4\App2\App2\obj\Debug\AddPage.g.i.cs
+D:\Kỳ 3\Baitap t4\App2\App2\obj\Debug\AddPage.g.cs
+D:\Kỳ 3\Baitap t4\App2\App2\obj\Debug\XamlTypeInfo.g.cs
+D:\Kỳ 3\Baitap t4\App2\App2\obj\Debug\App.xaml
+D:\Kỳ 3\Baitap t4\App2\App2\obj\Debug\App.xbf
+D:\Kỳ 3\Baitap t4\App2\App2\obj\Debug\XamlSaveStateFile.xml
+D:\Kỳ 3\Baitap t4\App2\App2\obj\Debug\MainPage.g.i.cs
+D:\Kỳ 3\Baitap t4\App2\App2\obj\Debug\MainPage.g.cs
+D:\Kỳ 3\Baitap t4\App2\App2\obj\Debug\MainPage.xaml
+D:\Kỳ 3\Baitap t4\App2\App2\obj\Debug\MainPage.xbf
+D:\Kỳ 3\Baitap t4\App2\App2\obj\Debug\ViewWindow.g.i.cs
+D:\Kỳ 3\Baitap t4\App2\App2\obj\Debug\ViewWindow.g.cs
+D:\Kỳ 3\Baitap t4\App2\App2\obj\Debug\View.g.i.cs
+D:\Kỳ 3\Baitap t4\App2\App2\obj\Debug\View.g.cs
+D:\Kỳ 3\Baitap t4\App2\App2\obj\Debug\View.xaml
+D:\Kỳ 3\Baitap t4\App2\App2\obj\Debug\View.xbf
+D:\Kỳ 3\Baitapt4\App2\App2\obj\Debug\App.g.i.cs
+D:\Kỳ 3\Baitapt4\App2\App2\obj\Debug\App.g.cs
+D:\Kỳ 3\Baitapt4\App2\App2\obj\Debug\MainPage.g.i.cs
+D:\Kỳ 3\Baitapt4\App2\App2\obj\Debug\MainPage.g.cs
+D:\Kỳ 3\Baitapt4\App2\App2\obj\Debug\View.g.i.cs
+D:\Kỳ 3\Baitapt4\App2\App2\obj\Debug\View.g.cs
+D:\Kỳ 3\Baitapt4\App2\App2\obj\Debug\XamlTypeInfo.g.cs
+D:\Kỳ 3\Baitapt4\App2\App2\obj\Debug\App.xaml
+D:\Kỳ 3\Baitapt4\App2\App2\obj\Debug\MainPage.xaml
+D:\Kỳ 3\Baitapt4\App2\App2\obj\Debug\View.xaml
+D:\Kỳ 3\Baitapt4\App2\App2\obj\Debug\App.xbf
+D:\Kỳ 3\Baitapt4\App2\App2\obj\Debug\MainPage.xbf
+D:\Kỳ 3\Baitapt4\App2\App2\obj\Debug\View.xbf
+D:\Kỳ 3\Baitapt4\App2\App2\obj\Debug\XamlSaveStateFile.xml
